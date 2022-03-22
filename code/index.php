@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="typewriter">
-        <h1>Hello World! Welcome to the PHP Application!</h1>
+        <h1>Hello Devtron! Welcome to the PHP Application!</h1>
     </div>
     
     <img src="images/hello_world.png" alt="Hello World">
